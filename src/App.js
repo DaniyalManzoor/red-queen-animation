@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import red_queen_and_alice_sprite from "./image/sprite_running-alice-queen_small.png";
 import palm3 from "./image/palm3_small.png";
 import bush from "./image/bush_small.png";
@@ -10,6 +9,8 @@ import palm1_small from "./image/palm1_small.png";
 import r_pawn_small from "./image/r_pawn_small.png";
 import r_knight_small from "./image/r_knight_small.png";
 import palm2_small from "./image/palm2_small.png";
+
+// import "./App.css";
 
 function App() {
   return (
